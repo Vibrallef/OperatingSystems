@@ -1,1 +1,1 @@
-
+Memory Management- Manages primary/ Main memory, that being a large array of words and bytes, each with it's own address. Decides when and how much memory a process will recieve. It also re-allocates that memory from a process that has been terminated or no longer needs it.
